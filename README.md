@@ -1,4 +1,4 @@
-## Oiii eu sou Kaique Matheus, atualmente aprendendo programação!
+## Hi I'm Kaique Matheus, currently learning programming!
 
 <div align="center">
   <a href="https://github.com/KaiqueMCR">
