@@ -1,6 +1,6 @@
 ## Hi I'm Kaique Matheus, currently learning programming!
 
-ul>
+<ul>
   <li>💻 Beginner in technology.
   <li>🎯 Interested on learning everything about Web Development.
   <li>🥇 Current learning HTML, CSS and JavaScript.
