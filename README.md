@@ -4,7 +4,7 @@
   <li>💻 Beginner in technology.
   <li>🎯 Interested on learning everything about Web Development.
   <li>🥇 Current learning HTML, CSS and JavaScript.
-  <li>🚀 Ppretending to be a professional in the tecnology area.
+  <li>🚀 Pretending to be a professional in the tecnology area.
 </ul>
 
   ##
