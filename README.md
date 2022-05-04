@@ -1,4 +1,4 @@
-## Hi I'm Kaique Matheus, currently learning programming!
+## Hi I'm Kaique Matheus, currently learning web development!
 
 <ul>
   <li>💻 Beginner in technology.
