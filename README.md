@@ -25,10 +25,14 @@
   
   ##
   
+  <br>
+  
 <div align="center"> 
     
-  <a href="https://www.instagram.com/ikie_math/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/ikie_math/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:kaiquedev404@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/kaique-matheus-9b0ab2236/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
+  <a href="https://twitter.com/kaiquedev" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
+  
+   ![Snake animation](https://github.com/KaiqueMCR/KaiqueMCR/blob/output/github-contribution-grid-snake.svg)
 </div>
