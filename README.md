@@ -3,7 +3,7 @@
 <ul>
   <li>💻 Beginner in technology.
   <li>🎯 Interested on learning everything about Web Development.
-  <li>🥇 Current learning Node, express, react.
+  <li>🥇 Current learning Nodejs, Express, Reactjs.
   <li>🚀 Pretending to be a professional in the tecnology area.
 </ul>
 
