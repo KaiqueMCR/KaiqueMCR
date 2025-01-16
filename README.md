@@ -1,4 +1,4 @@
-## Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="24px"> I'm Kaique Matheus!
+## Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="24px" height="24px"> I'm Kaique Matheus!
 
 <ul>
 
