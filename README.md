@@ -4,8 +4,7 @@
 
 <li>💻 Technology enthusiast.
 <li>🎯 Going beyond than just hard skills.
-<li>🥇 Current learning Typescript, Nodejs, Reactjs.
-<li>🚀 Intending to be a professional in the tecnology area.
+<li>🥇 Current learning Golang, React Native, Docker.
 
 </ul>
 
