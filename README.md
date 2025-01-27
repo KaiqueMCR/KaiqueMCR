@@ -23,11 +23,15 @@
 [![My Skills](https://skillicons.dev/icons?i=css)](https://www.w3.org/Style/CSS/Overview.en.html)
 [![My Skills](https://skillicons.dev/icons?i=javascript)](https://www.javascript.com/)
 [![My Skills](https://skillicons.dev/icons?i=typescript)](https://www.typescriptlang.org/)
-[![My Skills](https://skillicons.dev/icons?i=sass)](https://sass-lang.com/)
 [![My Skills](https://skillicons.dev/icons?i=firebase)](https://firebase.google.com/)
-[![My Skills](https://skillicons.dev/icons?i=jquery)](https://jquery.com/)
 [![My Skills](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org/en/)
+[![My Skills](https://skillicons.dev/icons?i=postgresql)](https://www.postgresql.org)
 [![My Skills](https://skillicons.dev/icons?i=mongo)](https://www.mongodb.com/)
+[![My Skills](https://skillicons.dev/icons?i=gcp)](https://cloud.google.com/)
+[![My Skills](https://skillicons.dev/icons?i=golang)](https://go.dev/dl/)
+[![My Skills](https://skillicons.dev/icons?i=next)](https://nextjs.org)
+[![My Skills](https://skillicons.dev/icons?i=react)](https://react.dev)
+[![My Skills](https://skillicons.dev/icons?i=figma)](https://figma.com)
 
 </div>
   
